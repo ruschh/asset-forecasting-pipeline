@@ -1,0 +1,67 @@
+
+---
+
+## 2. `.gitignore`
+
+```gitignore
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+ENV/
+
+# Arquivos de log
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Configurações de IDE/editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# -------------------------
+# Dados (ajuste conforme necessário)
+# -------------------------
+data/raw/
+data/interim/
+data/processed/
+data/*.csv
+data/*.parquet
+
+# Se quiser versionar apenas um README dentro de data/, crie-o e remova aqui o ignore correspondente.
+
+# -------------------------
+# Modelos e artefatos de ML
+# -------------------------
+models/*.joblib
+models/*.pkl
+models/*.sav
+
+# -------------------------
+# Sistemas operacionais
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Streamlit / outros
+# -------------------------
+.streamlit/
+
+# Arquivos temporários em geral
+*.tmp
+*.bak
+*.old
+

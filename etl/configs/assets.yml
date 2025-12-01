@@ -1,0 +1,59 @@
+assets:
+  - ticker: BBAS3
+    path: data/raw/BBAS3.xlsx
+  - ticker: PETR4
+    path: data/raw/PETR4.xlsx
+  - ticker: PRIO3
+    path: data/raw/PRIO3.xlsx
+  - ticker: SHUL4
+    path: data/raw/SHUL4.xlsx
+  - ticker: MRVE3
+    path: data/raw/MRVE3.xlsx
+  - ticker: MOVI3
+    path: data/raw/MOVI3.xlsx
+  - ticker: VAMO3
+    path: data/raw/VAMO3.xlsx
+  - ticker: ISAE4
+    path: data/raw/ISAE4.xlsx
+  - ticker: BRAV3
+    path: data/raw/BRAV3.xlsx
+  - ticker: ITSA4
+    path: data/raw/ITSA4.xlsx
+  - ticker: XPML11
+    path: data/raw/XPML11.xlsx
+  - ticker: VISC11
+    path: data/raw/VISC11.xlsx
+  - ticker: HGRU11
+    path: data/raw/HGRU11.xlsx
+  - ticker: ALZR11
+    path: data/raw/ALZR11.xlsx
+  - ticker: VILG11
+    path: data/raw/VILG11.xlsx
+  - ticker: GGRC11
+    path: data/raw/GGRC11.xlsx
+  - ticker: XPCI11
+    path: data/raw/XPCI11.xlsx
+  - ticker: IRDM11
+    path: data/raw/IRDM11.xlsx
+  - ticker: VRTA11
+    path: data/raw/VRTA11.xlsx
+  - ticker: HSML11
+    path: data/raw/HSML11.xlsx
+  - ticker: HGRE11
+    path: data/raw/HGRE11.xlsx
+  - ticker: JSRE11
+    path: data/raw/JSRE11.xlsx
+  
+benchmark:
+  - name: IBOV
+    path: data/raw/IBOV.xlsx
+
+
+
+
+
+
+
+
+
+
